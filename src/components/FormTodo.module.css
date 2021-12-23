@@ -1,0 +1,25 @@
+.input {
+    height: 30px;
+    background-color: beige;
+}
+.form {
+    height: 100px;
+    background-color: rgba(212, 92, 37, 0.582);
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.title {
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn {
+    margin-left: 20px;
+    height: 30px;
+    background-color: cornflowerblue;
+}
